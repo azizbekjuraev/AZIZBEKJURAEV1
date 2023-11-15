@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🖤 Passionate about **front-end development and Jamstack**
+- 🖤 Passionate about **front-end, mobile development**
 
-- 🌱 I’m currently relearning **React, wanting to learn TypeScript**
+- 🌱 I’m currently relearning **Flutter, wanting to learn Kotlin**
 
-- 💬 Ask me about **responsive web design, react**
+- 💬 Ask me about **responsive web design, flutter**
 
 - 📫 How to reach me **ajuraev98@mail.ru**
 
