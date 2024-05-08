@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizbekjuraev1&label=Profile%20views&color=0e75b6&style=flat" alt="azizbekjuraev1" /> </p>
 
-- 🔭 I’m currently working on **MasjidGo and Blacknote**
+- 🔭 I’m currently working on a **Startup**
 
-- 🌱 I’m currently learning **FlutterFlow**
+- 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **Flutter,Front-end and Mobile development.**
+- 💬 Ask me about **Front-end and Mobile development.**
 
 - ⚡ Fun fact **Spiders are the only web developers in the world that enjoy finding bugs.**
 
